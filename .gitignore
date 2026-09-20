@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Logs and local tooling
+*.log
+.vscode/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Unused local design exports
+images/background.png
+images/dashboard.png
+images/download
+images/main.png
+images/my.png
+images/Screenshot 2026-09-16 005440.png
